@@ -15,7 +15,7 @@ public class EquilibriumArray {
 
             if( left == right){
                 System.out.println(i);
-                // break;
+                break;
             }
         }
     }
